@@ -1,6 +1,6 @@
 <h1 align="center">✨ Vangala Manasa ✨</h1>
 <p align="center">
-  💻 CSSE Student • 🌐 Web Development Learner • 🚀 Future Full Stack Engineer  
+  💻 CSSE Student • 🌐 Web Development Learner • 🚀 Future Ai Engineer  
 </p>
 
 <p align="center">
